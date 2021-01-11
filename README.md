@@ -2,6 +2,8 @@
 
 An Angular treeview component with checkbox
 
+Forked from [https://github.com/leovo2708/ngx-treeview](https://github.com/leovo2708/ngx-treeview)
+
 ## Dependencies
 
 - [Angular](https://angular.io)

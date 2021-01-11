@@ -13,6 +13,7 @@ export interface TreeItem {
   checked?: boolean;
   collapsed?: boolean;
   children?: TreeItem[];
+  isParent?: boolean;
 }
 
 export class TreeviewItem {
